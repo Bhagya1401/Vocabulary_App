@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assigment template</string>
+    <string name="home_page_button">Continue</string>
+    <string name="native_text_field_label">Native language</string>
+    <string name="foreign_text_field_label">Foreign Language</string>
+    <string name="nav_drawer_menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="addVocab">Add Vocabulary</string>
+    <string name="vocabList">Vocabulary List</string>
+    <string name="home_page_text">Define your native language and the language you wish to learn</string>
+    <string name="addvocab_page_text">Add the word in your native language and the language you wish to learn</string>
+    <string name="addvocab_page_button">Add Vocabulary</string>
+    <string name="spellingTest">Spelling Test</string>
+    <string name="spelling_label">Enter the foreign word with correct spelling</string>
+    <string name="submit_button">Submit</string>
+    <string name="quickFireTest">Quick Fire Round</string>
+    <string name="change_language_button">Switch Languages</string>
+    <string name="confirmation">Are you sure?</string>
+</resources>
